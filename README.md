@@ -1,18 +1,7 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=Y70000&lines=Welcome+to+Toxic+Turbo's+Profile)](https://git.io/typing-svg)
-
-  <p align="center">
-  <a href="https://telegra.ph/file/6c6c82a987306cc330978.jpg"><img src="https://telegra.ph/file/6c6c82a987306cc330978.jpg""width="170" height="170"/>
-  <p align="center">
-
-<a href="#"><img title="ToxicTurbo" src="https://img.shields.io/badge/-💝Toxic-Turbo💝-blue?&style=for-the-badge"></a>
-</p>
-  </p>
-
-<a href="https://github.com/TURBOHYPER"><img title="jocker" src="https://img.shields.io/badge/TURBOHYPER-authot?color=black&style=for-the-badge&logo=github"></a>
-
-</div>
+## Toxic-Turbo
+# Hi ,<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a> I'm Turbo Mods&nbsp;
 
 ![My card name](https://cardivo.vercel.app/api?name=Toxic-Turbo&description=Hi,%20Welcome%20To%20💖Turbo💖%20Profile%20❤&image=https://telegra.ph/file/6c6c82a987306cc330978.jpg&backgroundColor=%23ecf0f1&instagram=toxic_turbo777&github=TURBOHYPER&twitter=&pattern=leaf&colorPattern=%23eaeaea)
 
@@ -30,17 +19,46 @@
 - 💫 My WebSit **https://toxicturbo.vercel.app/**
 
 
-<hr></hr>  
+![TURBOHYPER](https://github.com/phaticusthiccy/Statics/blob/master/generated/languages.svg)
+ 
+ ### My Projects
+          
+[![github card](https://github-readme-stats.vercel.app/api/pin/?username=TURBOHYPER&repo=Toxic-Alexa&theme=nightowl)](https://github.com/TURBOHYPER/Toxic-Alexa)
+
+
+
+
+[![github card](https://github-readme-stats.vercel.app/api/pin/?username=TURBOHYPER&repo=Toxic-Alexa_V2&theme=nightowl)](https://github.com/TURBOHYPER/Toxic-Alexa_V2)
+
+
+
+[![github card](https://github-readme-stats.vercel.app/api/pin/?username=Afx-Abu&repo=Abu_ser&theme=nightowl)](https://github.com/TURBOHYPER/Toxic-Alexa)
+
+
+
+[![github card](https://github-readme-stats.vercel.app/api/pin/?username=AMRUSIR&repo=AMRU-SER&theme=nightowl)](https://github.com/TURBOHYPER/Toxic-Alexa_V2)
+          
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TURBOHYPER&show_icons=true&theme=nightowl" alt="TURBOHYPER" /></p>
+          
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TURBOHYPER&theme=nightowl" alt="TURBOHYPER" /></p>
+</details> </div>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TURBOHYPER&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+  </div>
+          
+ ## Developers
+  <div align="center">
     
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" />
+  [![Toxic-Turbo](https://github.com/TURBOHYPER.png?size=100)](https://github.com/TURBOHYPER)
 
-
-
-</div>
+[Toxic-Turbo](https://github.com/TURBOHYPER)        
+Developer, Base, Bug Fixes, Modules
+    
     
 
 
-<!---
-TURBOHYPER/TURBOHYPER is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## License
+This project is protected by `GNU General Public Licence v3.0` license.
+
+### Disclaimer
+`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
