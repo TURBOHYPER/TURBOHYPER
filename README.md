@@ -8,15 +8,15 @@
 <div align="center">
   <p align="center">
     
-- 🔭 I’m currently working on [Toxic-Alexa](https://github.com/TURBOHYPER/Toxic-Alexa)
+- 🔭 I’m currently working on [**Toxic-Alexa**](https://github.com/TURBOHYPER/Toxic-Alexa)
 
-- 💬 Ask me about **ME**
+- 💬 Ask me about [**ME**](https://toxicturbo.vercel.app/index-me.html)
 
-- 📫 How to reach me **https://wa.me/916380260672**
+- 📫 How to reach [**ME**](https://wa.me/916380260672)
 
-- ⚡ Fun fact **I THINK IAM VERY HAPPY**
+- ⚡ Fun fact [**I THINK IAM VERY HAPPY**](https://c.tenor.com/8KpKwMUaYREAAAAi/not-really-ryan-fluff-bruce.gif)
 
-- 💫 My WebSit **https://toxicturbo.vercel.app/**
+- 💫 My [**WEBSIT**](https://toxicturbo.vercel.app)
 
 
 ![TURBOHYPER](https://github.com/phaticusthiccy/Statics/blob/master/generated/languages.svg)
