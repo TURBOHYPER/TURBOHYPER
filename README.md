@@ -8,7 +8,7 @@
 <div align="center">
   <p align="center">
     
-- 🔭 I’m currently working on [Toxic-Alexa] (https://github.com/TURBOHYPER/Toxic-Alexa)
+- 🔭 I’m currently working on [Toxic-Alexa](https://github.com/TURBOHYPER/Toxic-Alexa)
 
 - 💬 Ask me about **ME**
 
