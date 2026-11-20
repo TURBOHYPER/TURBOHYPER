@@ -37,18 +37,6 @@ I'm **Turbo** — an entrepreneur and builder fascinated by the possibilities of
 
 <div align="center"><img src="assets/activity.svg" width="100%" alt="Animated activity panel" /></div>
 
-### GitHub, in motion
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TURBOHYPER&show_icons=true&hide_border=true&bg_color=02060D&title_color=9BD7FF&text_color=B2C9E2&icon_color=4D9CE8" height="160" alt="GitHub statistics" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TURBOHYPER&bg_color=02060D&color=9BD7FF&line=3678C4&point=BDE6FF&area=true&hide_border=true" width="98%" alt="Contribution activity graph" />
-
-</div>
-
 ### My Git Koi
 
 A small living portrait of my public GitHub activity. The koi evolves with contributions and swims in a looping animation, refreshed by GitHub Actions.
