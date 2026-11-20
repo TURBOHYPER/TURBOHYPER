@@ -45,8 +45,6 @@ A small living portrait of my public GitHub activity. The koi evolves with contr
 
 <img src="koi/koi.gif" width="100%" alt="Animated Git Koi generated from TURBOHYPER GitHub activity — appears after the workflow runs" />
 
-<sub>Powered by <a href="https://github.com/yalongwastaken/git-koi">git-koi</a> · generated from public activity</sub>
-
 </div>
 
 ### What keeps me moving
